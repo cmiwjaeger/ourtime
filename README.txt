@@ -1,19 +1,9 @@
 |****************************************|
-|*         OURTIME MVC FRAMEWORK        *|  
 |*                                      *|
+|*        OURTIME MVC FRAMEWORK         *|  
+|*                                      *|
+==========================================
 
-/*****************************************
-*										                     *
-*			      OURTIME FRAMEWORK			       *
-*										                     *
-*========================================*
-|										                     |
-|										                     |
-|										                     |
-|										                     |
-|   Created by Billy "cmiw" D. Hidayat	 |
-------------------------------------------
-
-  @billydamara@gmail.com
+by Billy "cmiw" Hidayat @billydamara@gmail.com
  
  				
