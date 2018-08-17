@@ -1,0 +1,15 @@
+{
+	"Home" : "home",
+	"Tools" : {
+		"My Tools" : "tools",
+		"Tool 1" : "tools/first",
+		"Tool 2" : "tools/second",
+		"separator" : "",
+		"Tool 3" : "tools/third"
+	},
+	"Pelanggan" : "pelanggan",
+	"Kendaraan" : "kendaraan",
+	"Booking" : "booking",
+	"Login" : "register/login",
+	"Logout" : "register/logout"
+}

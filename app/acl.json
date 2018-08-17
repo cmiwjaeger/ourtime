@@ -1,0 +1,24 @@
+{
+	"Guest" : {
+		"denied" : {
+			"Admin" : ["*"]
+		},
+		"Home" : ["*"],
+		"Register" : ["login","register"],
+		"Ajax": ["*"]
+	},
+	"LoggedIn" : {
+		"denied" : {
+			"Register" : ["login", "register"]
+		},
+		"Home" : ["*"],
+		"Register" : ["logout"],
+		"Ajax" : ["*"],
+		"Datatable": ["*"]
+	},
+	"isAdmin" : {
+		"denied" : {},
+		"Ajax" : ["*"],
+		"Datatable": ["*"]
+	}
+}
