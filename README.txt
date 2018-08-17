@@ -1,13 +1,13 @@
 /*****************************************
-*										 *
-*			OURTIME FRAMEWORK			 *
-*										 *
+*										                     *
+*			      OURTIME FRAMEWORK			       *
+*										                     *
 *========================================*
-|										 |
-|										 |
-|										 |
-|										 |
-| Created by Billy "cmiw" D. Hidayat	 |
+|										                     |
+|										                     |
+|										                     |
+|										                     |
+|   Created by Billy "cmiw" D. Hidayat	 |
 ------------------------------------------
 
-@billydamara@gmail.com
+  @billydamara@gmail.com
