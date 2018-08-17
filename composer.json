@@ -3,8 +3,8 @@
         "illuminate/database": "^5.6"
     },
     "autoload": {
-    	"classmap": {
-    		"app/models"
-    	}
+    	"classmap": [
+    		"app/models/"
+    	]
     }
 }
